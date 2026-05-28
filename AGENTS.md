@@ -6,7 +6,7 @@ This file lives in your **course project folder** (for example a folder you name
 `COURSE_SLUG: code-kenya-pre-course`
 
 **Editor you are using (change if needed — used so the AI calls your editor by the right name):**
-`IDE: antigravity`
+`IDE: vscode`
 
 > If you are using VS Code set this to `IDE: vscode`.
 > If you are using Antigravity set this to `IDE: antigravity`.
