@@ -1,0 +1,10 @@
+name: Learn with Agents
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: learnwithagents
+    type: stdio
+    command: npx
+    args:
+      - "-y"
+      - "@learnwithagents/mcp-server"
